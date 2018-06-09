@@ -11,3 +11,11 @@ div{
 .container{
 	background-color: honeydew;
 }
+
+button:hover{
+    background-color: palegreen;
+}
+
+input[type="reset"]:hover{
+    background-color: palegreen;
+}
